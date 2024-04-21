@@ -1,14 +1,10 @@
 ![Sem título-1](https://github.com/Matheusouza2/Matheusouza2/assets/17604633/2b308d9f-5759-4faa-a3ba-91919d6784d2)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusouza2)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Matheusouza2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Matheusouza2&theme=dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusouza2)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
